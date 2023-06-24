@@ -53,7 +53,7 @@ options.add_argument('--incognito')
 
 # options.add_argument('--headless')  # unComment out the headless option to run the code without the browser mode
 
-PROXY = 'http://eiapotwv:umaiupk861wn@185.199.229.156:7492'
+PROXY = ''
 # Set up proxy
 prox = Proxy()
 prox.proxy_type = ProxyType.MANUAL
